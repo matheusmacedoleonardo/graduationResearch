@@ -1,0 +1,1 @@
+This the BOSSA NOVA base application
